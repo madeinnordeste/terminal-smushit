@@ -39,8 +39,8 @@ Muito legal! Mas não consigo lembrar de todos os argumentos necessários pra ro
 
 Então use o *smushit.sh* que passa os argumentos pra você. Basta executar:
 
-   ./smushit.sh /home/SEUNOME/imagens/
-   
+    ./smushit.sh /home/SEUNOME/imagens/
+
 Pronto a mágica será iniciada! Você pode personalizar o *smushit.sh* ao seu modo, afinal cada pessoa/projeto tem suas particularidades.
 
 **Atenção:** Não esqueça de dá permissão de execução para o *smushit.sh*, basta rodar o comando:
